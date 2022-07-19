@@ -25,7 +25,9 @@ TODO - https://github.com/terraform-docs/terraform-docs
   * Define / enforce Tag Requirement(s)
 
 * AWS Organizational Unit
-  * TBD
+  * SCP(s) attached - Root Access Disable SCP
+  * Tag Policies attached
+  * Name; Parent
 
 * AWS Account - (TODO: Determine what should be encapsulated into the "module" and what should be feature-flagged / extracted)
   * Inputs:

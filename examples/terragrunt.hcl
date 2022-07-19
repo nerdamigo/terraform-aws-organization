@@ -1,3 +1,5 @@
+skip = true # don't process this as a terragrunt module
+
 remote_state {
   backend = "s3"
   generate = {
